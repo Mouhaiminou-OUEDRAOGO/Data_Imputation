@@ -1,7 +1,7 @@
 # Objectif du projet : 
 Nettoyage et exploration de la base de données Open Food Facts de Santé publique France afin de permettre la création d’un système de suggestion ou d’auto-complétion des nouveaux produits
 
-
+![Alt text](assets/image.png)
 
 # Plan d'action
 
